@@ -3,6 +3,7 @@ Se utiliza el entorno de Jupyter Notebook, implementado con la extension dentro 
 
 En este repositorio esta la practica 2 hecha, donde la carpeta notebooks tiene los ejercicios del 1 al 10, y src tiene las funciones 
 Los ejercicios anteriores al 10 estan realizados sin funciones, por eso el archivo dentro de SRC se llama FUNCIONESP2EJ10.
+En el archivo de texto requirements, se encuentra la version de jupyter-notebook
 
 Considereaciones a tener para utilizar correctamente jupyter notebooks:
 1- Instalar python y pip/2-Escribir en la Consola pip install notebook, y luego escribir jupyter notebooks para abrirlo
